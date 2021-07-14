@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tonymonxdd, I'm a senior year student of Electrical Engineering at the Universidad de Costa Rica
+- 👀 I’m interested in VLSI, digital circuits and electronics
+- 📫 How to reach me edward.cerdas@ucr.ac.cr
