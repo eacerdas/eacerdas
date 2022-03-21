@@ -1,3 +1,3 @@
 - Hi, I’m Edward. I'm an Electrical Engineer working at Intel Corporation.
-- I’m interested in VLSI and software development.
-- How to reach me?: edward.cerdas@ucr.ac.cr
+- I’m interested in VLSI and SW development.
+- How to reach me? email: edward.cerdas@ucr.ac.cr linkedin: Edward Cerdas.
